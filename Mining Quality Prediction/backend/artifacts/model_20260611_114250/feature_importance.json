@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Flotation Column 03 Level",
+    "importance": 0.1998
+  },
+  {
+    "feature": "level_mean",
+    "importance": 0.1754
+  },
+  {
+    "feature": "Flotation Column 06 Level",
+    "importance": 0.1522
+  },
+  {
+    "feature": "Ore Pulp Density_roll3",
+    "importance": 0.1335
+  },
+  {
+    "feature": "Amina Flow_lag3",
+    "importance": 0.0826
+  },
+  {
+    "feature": "Amina Flow_lag2",
+    "importance": 0.0741
+  },
+  {
+    "feature": "Amina Flow_roc",
+    "importance": 0.0311
+  },
+  {
+    "feature": "Flotation Column 02 Air Flow",
+    "importance": 0.0256
+  },
+  {
+    "feature": "Flotation Column 07 Air Flow",
+    "importance": 0.0145
+  },
+  {
+    "feature": "Ore Pulp pH_lag2",
+    "importance": 0.0113
+  },
+  {
+    "feature": "Ore Pulp Density",
+    "importance": 0.0103
+  },
+  {
+    "feature": "Flotation Column 01 Air Flow",
+    "importance": 0.0089
+  },
+  {
+    "feature": "Ore Pulp Flow",
+    "importance": 0.0088
+  },
+  {
+    "feature": "Flotation Column 02 Level",
+    "importance": 0.0084
+  },
+  {
+    "feature": "Ore Pulp Density_lag3",
+    "importance": 0.007
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "silica_lab_lag1",
+    "importance": 446.0221
+  },
+  {
+    "feature": "Starch Flow_lag1",
+    "importance": 398.0086
+  },
+  {
+    "feature": "Ore Pulp Flow",
+    "importance": 391.6729
+  },
+  {
+    "feature": "iron_lab_lag1",
+    "importance": 385.0385
+  },
+  {
+    "feature": "Ore Pulp pH_lag1",
+    "importance": 375.3426
+  },
+  {
+    "feature": "Flotation Column 01 Air Flow",
+    "importance": 367.0071
+  },
+  {
+    "feature": "Ore Pulp Density_lag1",
+    "importance": 346.0097
+  },
+  {
+    "feature": "Flotation Column 03 Air Flow",
+    "importance": 337.3424
+  },
+  {
+    "feature": "Flotation Column 02 Air Flow",
+    "importance": 337.3398
+  },
+  {
+    "feature": "Flotation Column 07 Air Flow",
+    "importance": 333.0086
+  },
+  {
+    "feature": "Flotation Column 01 Level",
+    "importance": 331.6738
+  },
+  {
+    "feature": "Flotation Column 06 Air Flow",
+    "importance": 331.342
+  },
+  {
+    "feature": "Ore Pulp pH",
+    "importance": 327.6735
+  },
+  {
+    "feature": "Ore Pulp Density",
+    "importance": 324.3405
+  },
+  {
+    "feature": "Starch Flow",
+    "importance": 324.3381
+  }
+]

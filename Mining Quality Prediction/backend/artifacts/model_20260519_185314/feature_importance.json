@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Ore Pulp Flow",
+    "importance": 413.6808
+  },
+  {
+    "feature": "Starch Flow_lag1",
+    "importance": 411.0116
+  },
+  {
+    "feature": "Flotation Column 06 Air Flow",
+    "importance": 369.013
+  },
+  {
+    "feature": "Flotation Column 02 Air Flow",
+    "importance": 362.6787
+  },
+  {
+    "feature": "Ore Pulp pH",
+    "importance": 356.677
+  },
+  {
+    "feature": "Ore Pulp Density_roll3",
+    "importance": 353.0214
+  },
+  {
+    "feature": "Flotation Column 01 Air Flow",
+    "importance": 352.7082
+  },
+  {
+    "feature": "Flotation Column 03 Air Flow",
+    "importance": 350.3557
+  },
+  {
+    "feature": "Ore Pulp Density",
+    "importance": 350.3459
+  },
+  {
+    "feature": "Starch Flow_roll3",
+    "importance": 348.351
+  },
+  {
+    "feature": "Flotation Column 01 Level",
+    "importance": 345.017
+  },
+  {
+    "feature": "Ore Pulp pH_lag1",
+    "importance": 336.6787
+  },
+  {
+    "feature": "Flotation Column 07 Air Flow",
+    "importance": 336.345
+  },
+  {
+    "feature": "Ore Pulp pH_roll3",
+    "importance": 330.6841
+  },
+  {
+    "feature": "Flotation Column 03 Level",
+    "importance": 330.3513
+  }
+]

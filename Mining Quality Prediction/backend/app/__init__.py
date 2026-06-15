@@ -1,0 +1,1 @@
+"""MineVision AI backend application."""

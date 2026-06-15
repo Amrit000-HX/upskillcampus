@@ -1,0 +1,103 @@
+{
+  "job_id": "9e9dc95d",
+  "algorithm": "ensemble",
+  "version": "20260519_185822",
+  "trained_at": "2026-05-19T18:58:28.782985+00:00",
+  "training_samples": 3276,
+  "validation_samples": 820,
+  "feature_count": 37,
+  "feature_names": [
+    "% Iron Feed",
+    "% Silica Feed",
+    "Starch Flow",
+    "Amina Flow",
+    "Ore Pulp Flow",
+    "Ore Pulp pH",
+    "Ore Pulp Density",
+    "Flotation Column 01 Air Flow",
+    "Flotation Column 02 Air Flow",
+    "Flotation Column 03 Air Flow",
+    "Flotation Column 04 Air Flow",
+    "Flotation Column 05 Air Flow",
+    "Flotation Column 06 Air Flow",
+    "Flotation Column 07 Air Flow",
+    "Flotation Column 01 Level",
+    "Flotation Column 02 Level",
+    "Flotation Column 03 Level",
+    "Flotation Column 04 Level",
+    "Flotation Column 05 Level",
+    "Flotation Column 06 Level",
+    "Flotation Column 07 Level",
+    "silica_lab_lag1",
+    "iron_lab_lag1",
+    "% Silica Feed_lag1",
+    "% Silica Feed_roll3",
+    "Ore Pulp pH_lag1",
+    "Ore Pulp pH_roll3",
+    "Ore Pulp Density_lag1",
+    "Ore Pulp Density_roll3",
+    "Starch Flow_lag1",
+    "Starch Flow_roll3",
+    "Amina Flow_lag1",
+    "Amina Flow_roll3",
+    "silica_feed_x_ph",
+    "starch_amina_ratio",
+    "air_flow_total",
+    "level_mean"
+  ],
+  "train_metrics": {
+    "rmse": 0.1697,
+    "mae": 0.1121,
+    "r2": 0.9771,
+    "mape": 5.3394,
+    "accuracy_percent": 97.71
+  },
+  "test_metrics": {
+    "rmse": 0.7584,
+    "mae": 0.5817,
+    "r2": 0.5625,
+    "mape": 30.732,
+    "accuracy_percent": 56.25
+  },
+  "horizon_models": {
+    "1_hour": {
+      "steps": 1,
+      "metrics": {
+        "rmse": 0.8881,
+        "mae": 0.6847,
+        "r2": 0.4008,
+        "mape": 35.5489,
+        "accuracy_percent": 40.08
+      },
+      "confidence_percent": 60.0
+    },
+    "3_hours": {
+      "steps": 3,
+      "metrics": {
+        "rmse": 1.1271,
+        "mae": 0.9057,
+        "r2": 0.0347,
+        "mape": 47.4972,
+        "accuracy_percent": 3.47
+      },
+      "confidence_percent": 60.0
+    },
+    "6_hours": {
+      "steps": 6,
+      "metrics": {
+        "rmse": 1.34,
+        "mae": 1.1055,
+        "r2": -0.3632,
+        "mape": 60.448,
+        "accuracy_percent": 0.0
+      },
+      "confidence_percent": 60.0
+    }
+  },
+  "target": "% Silica Concentrate",
+  "silica_thresholds": {
+    "low": 1.5,
+    "medium": 2.0,
+    "high": 2.5
+  }
+}

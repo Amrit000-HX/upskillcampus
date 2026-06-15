@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Flotation Column 03 Level",
+    "importance": 0.299
+  },
+  {
+    "feature": "Ore Pulp Density_roll3",
+    "importance": 0.1538
+  },
+  {
+    "feature": "Ore Pulp Flow",
+    "importance": 0.0842
+  },
+  {
+    "feature": "Amina Flow_lag3",
+    "importance": 0.0772
+  },
+  {
+    "feature": "Flotation Column 06 Level",
+    "importance": 0.0534
+  },
+  {
+    "feature": "silica_lab_lag1",
+    "importance": 0.0495
+  },
+  {
+    "feature": "Flotation Column 06 Air Flow",
+    "importance": 0.0346
+  },
+  {
+    "feature": "Flotation Column 07 Air Flow",
+    "importance": 0.0272
+  },
+  {
+    "feature": "Flotation Column 01 Level",
+    "importance": 0.0242
+  },
+  {
+    "feature": "Flotation Column 02 Level",
+    "importance": 0.02
+  },
+  {
+    "feature": "Ore Pulp pH_lag2",
+    "importance": 0.0154
+  },
+  {
+    "feature": "% Silica Feed",
+    "importance": 0.015
+  },
+  {
+    "feature": "Ore Pulp Density_lag2",
+    "importance": 0.015
+  },
+  {
+    "feature": "Amina Flow_roll6",
+    "importance": 0.0137
+  },
+  {
+    "feature": "Flotation Column 03 Air Flow",
+    "importance": 0.0104
+  }
+]

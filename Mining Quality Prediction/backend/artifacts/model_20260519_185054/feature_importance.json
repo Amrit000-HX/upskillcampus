@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "silica_feed_x_ph",
+    "importance": 925.3729
+  },
+  {
+    "feature": "Ore Pulp pH",
+    "importance": 745.3511
+  },
+  {
+    "feature": "Ore Pulp Density",
+    "importance": 642.0182
+  },
+  {
+    "feature": "Ore Pulp pH_roll_mean_6",
+    "importance": 619.6826
+  },
+  {
+    "feature": "% Iron Feed",
+    "importance": 606.0989
+  },
+  {
+    "feature": "Ore Pulp Density_roll_mean_6",
+    "importance": 583.6889
+  },
+  {
+    "feature": "Amina Flow_roll_mean_6",
+    "importance": 489.0243
+  },
+  {
+    "feature": "Flotation Column 02 Level",
+    "importance": 450.0237
+  },
+  {
+    "feature": "Flotation Column 05 Air Flow",
+    "importance": 447.361
+  },
+  {
+    "feature": "Flotation Column 04 Air Flow",
+    "importance": 441.0484
+  },
+  {
+    "feature": "Starch Flow_roll_mean_6",
+    "importance": 373.3418
+  },
+  {
+    "feature": "Flotation Column 03 Level",
+    "importance": 354.6959
+  },
+  {
+    "feature": "Amina Flow",
+    "importance": 345.3509
+  },
+  {
+    "feature": "% Silica Feed",
+    "importance": 315.3684
+  },
+  {
+    "feature": "Flotation Column 01 Level",
+    "importance": 313.0235
+  }
+]
